@@ -1,4 +1,4 @@
-# Advanced-Data-Science-UNITV-Course
+# Advanced-Data-Science-UNITBV-Course
 Materiale ADS1 UNITBV - Prof. Teodor Stefan Bildea
 
 Pasi pentru clonare/actualizare proiect:
